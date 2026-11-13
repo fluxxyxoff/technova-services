@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://fluxxyxoff.github.io/technova-services/sitemap.xml

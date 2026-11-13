@@ -1,0 +1,20 @@
+# TechNova Services — projet scolaire fictif
+
+> Site vitrine pédagogique consacré au SEO et au GEO. Il ne s'agit pas d'une entreprise réelle et aucun service payant n'est proposé.
+
+TechNova Services est une entreprise fictive située dans le scénario du projet à Bruxelles, en Belgique. Elle présente des exemples de dépannage informatique, d'installation Windows, d'optimisation PC, de sécurité numérique, de sauvegarde et d'accompagnement.
+
+## Pages principales
+- [Accueil](https://fluxxyxoff.github.io/technova-services/): présentation du projet et des domaines d'intervention fictifs.
+- [Services](https://fluxxyxoff.github.io/technova-services/services.html): six domaines détaillés et questions fréquentes.
+- [À propos](https://fluxxyxoff.github.io/technova-services/apropos.html): contexte scolaire, public cible et objectifs.
+- [Contact](https://fluxxyxoff.github.io/technova-services/contact.html): formulaire de simulation, sans envoi.
+
+## Informations importantes
+- Nom : TechNova Services
+- Localisation fictive du projet : Bruxelles, Belgique
+- Public cible théorique : particuliers, étudiants et petites entreprises
+- Statut : projet scolaire fictif, non enregistré et sans activité commerciale
+- Aucun numéro de téléphone, adresse postale, avis client ou tarif réel.
+
+Ce fichier est facultatif et expérimental ; il n'assure aucune citation ou visibilité dans les IA.

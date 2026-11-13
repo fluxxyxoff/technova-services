@@ -1,0 +1,45 @@
+TECHNOVA SERVICES — GUIDE DU DOSSIER SEO/GEO
+13 novembre 2026 — site pédagogique fictif
+
+URL : https://fluxxyxoff.github.io/technova-services/
+Hébergement : GitHub Pages (branche main, dossier racine /)
+Pages HTML : 4
+
+ÉTAPE 2 — SEO
+Accueil : TechNova Services | Dépannage informatique à Bruxelles
+Services : Services informatiques à Bruxelles | TechNova Services
+À propos : À propos de TechNova Services à Bruxelles
+Contact : Contact | TechNova Services Bruxelles
+Mots-clés ciblés : dépannage informatique Bruxelles ; réparation ordinateur Bruxelles ; maintenance informatique Bruxelles ; installation Windows Bruxelles ; optimisation PC Bruxelles.
+Chaque page contient 1 balise title, 1 meta description, 1 H1, des sous-titres, un canonical, des balises Open Graph. Les illustrations sont faites en SVG/HTML et CSS ; les éléments informatifs sont nommés pour l'accessibilité. Ne pas déclarer avoir ajouté des alt aux images inexistantes.
+
+ÉTAPE 3 — SITEMAP
+Fichier : sitemap.xml
+Adresse à tester : https://fluxxyxoff.github.io/technova-services/sitemap.xml
+Contient 4 URL canoniques. Vérifier qu'il est accessible après publication.
+
+ÉTAPE 4 — ROBOTS.TXT
+Fichier : robots.txt
+Adresse : https://fluxxyxoff.github.io/technova-services/robots.txt
+Autorise l'exploration et indique le sitemap. Important : robots.txt autorise l'exploration, il ne garantit pas l'indexation.
+
+ÉTAPE 7 — GEO
+Présentation de l'entreprise dans apropos.html sous « TechNova Services en bref ».
+Le contenu précise le caractère fictif, Bruxelles, les publics cibles, les services, les limites du formulaire. Le fichier facultatif llms.txt peut aider à documenter le site, mais n'a aucune garantie d'effet sur les IA.
+
+ÉTAPE 8 — SCHEMA.ORG
+Chacune des 4 pages inclut un script JSON-LD avec Organization, WebSite et WebPage (sous-type suivant la page). La page Services contient un ItemList de 6 Service fictifs. Ne pas déclarer LocalBusiness, faux avis ou faux coordonnées.
+Vérifier la validité syntaxique avec https://validator.schema.org/ (et distinguer validation Schema.org et résultats enrichis Google).
+
+À FAIRE APRÈS MISE EN LIGNE (résultats à ne pas inventer)
+1. Recharger les quatre pages en ligne et sur smartphone, tester la recherche JS, les filtres, le menu et le formulaire de démonstration ; faire captures.
+2. Vérifier sitemap.xml et robots.txt à leurs URL.
+3. Search Console : ajouter la propriété URL-prefix https://fluxxyxoff.github.io/technova-services/ puis valider la propriété par la méthode réellement proposée. Si Google requiert un fichier HTML de vérification ou une balise, ajouter cette preuve au dépôt. Envoyer le sitemap et noter les résultats réels.
+4. Bing Webmaster Tools : ajouter ou importer le site, vérifier propriété et sitemap, noter le résultat réel.
+5. Exécuter les tests des IA ChatGPT, Gemini, Perplexity, Copilot avec les mêmes questions. Sauvegarder les réponses et les captures ; pas de promesse de découverte d'un site fictif.
+6. Relever les résultats réels aux jours 1, 7 et 21. Le classement et l'indexation ne sont pas instantanés ni garantis.
+7. Remplir les étapes 9 à 12 avec des preuves véridiques, distinguer « non trouvé » et « non testé ».
+
+MISE À JOUR GITHUB
+Sur GitHub > dépôt technova-services > Add file > Upload files, déposer LE CONTENU du dossier décompressé (pas le ZIP ni le dossier parent) et confirmer les remplacements. Si l'interface refuse un remplacement en masse, utiliser GitHub Desktop ou git push depuis VS Code.
+Le fichier README.md et le présent guide sont des documents de travail ; ne pas recopier les réponses comme observations si tu n'as pas vérifié les URLs.
